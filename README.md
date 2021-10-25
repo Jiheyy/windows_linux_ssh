@@ -10,3 +10,6 @@ send file from linux to windows.
 5. Therefore, we can get result from program which is only support for windows.
 
 So now it is possible to not only run a program which only support windows and check the result.
+
+These code should be on linux server not windows.
+To use this code, you should create script (on windows) to run programs what you want and write the result on txt file.
